@@ -1,0 +1,33 @@
+
+name: "Peter Bucchianeri"
+
+output_dir: "."
+
+navbar:
+  title: "Peter Bucchianeri"
+  left:
+    - text: "CV"
+      href: cv.html
+    - text: "Research" # Could call this Writing
+      href: research.html
+    - text: "Data"
+      href: data.html
+    #- text: "Speaking"
+    #  href: talks.html
+    #- text: "Programming"
+    #  href: software.html
+    #- text: "Teaching"
+    #  href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    #- icon: fa-github fa-lg
+    #  href: http://github.com/pbucchianeri
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/pbucchianeri
+    #- icon: fa-linkedin fa-lg
+    #  href: https://www.linkedin.com/in/peter-bucchianeri-b6227211/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
