@@ -5,7 +5,7 @@
 
 <img src="images/peter.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Hi. I'm a Social Scientist. 
+Hi. I'm Peter. I'm a Social Scientist.
 
 <!-- I currently consult for the [Center for Effective Lawmaking](https://thelawmakers.org/)  -->
 
