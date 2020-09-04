@@ -7,8 +7,8 @@ pagetitle: "Peter Bucchianeri"
 
 DATA DATA DATA
 
-<!-- Import Dataverse Widget -- This may or may not be working... -->
-<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=peterbucchianeri&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=peterbucchianeri&amp;widget=iframe&amp;heightPx=auto"></script>
+<!-- Import Dataverse Widget -- Doesn't show correctly in Post-Build Preview -->
+<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=peterbucchianeri&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=peterbucchianeri&amp;widget=iframe&amp;heightPx=500"></script>
 
 <!-- Original Code via Dataverse
 <script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=peterbucchianeri&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=peterbucchianeri&amp;widget=iframe&amp;heightPx=500"></script>
