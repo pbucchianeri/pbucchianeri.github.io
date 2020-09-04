@@ -1,6 +1,9 @@
 ---
-title: ''
+title: " "
+pagetitle: "Peter Bucchianeri"
 ---
+
+<!-- Tutorial: http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#types_of_websites -->
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -10,9 +13,4 @@ Hi. I'm Peter. I'm a Social Scientist.
 
 This site remains under development....
 
-In the meantime, you can check out my existing website [here](http://www.peterbucchianeri.com).
-
-
-<!-- I currently consult for the [Center for Effective Lawmaking](https://thelawmakers.org/)  -->
-
-<!-- My CV is available [here](files/Bucchianeri_CV_Web.pdf). -->
+In the meantime, you can check out my existing website [here](http://www.peterbucchianeri.com) or view my CV [here](files/Bucchianeri_CV_Web.pdf).

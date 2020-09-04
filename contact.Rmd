@@ -1,4 +1,9 @@
 ---
+title: " "
+pagetitle: "Peter Bucchianeri"
 ---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
 
 CONTACT ME
