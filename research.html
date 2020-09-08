@@ -70,7 +70,7 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="website_style.css" type="text/css" />
 
 
 
@@ -310,9 +310,63 @@ $(document).ready(function () {
 </div>
 
 
-<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p>RESEARCH RESEARCH RESEARCH</p>
-<!-- [Paper ABC](files/papers/paper_file.pdf). -->
+<!-- Javscript to Show/Hide Abstracts -->
+<script>
+function showAbstract(div_id) {
+    var x = document.getElementById(div_id);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+<div id="publications" class="section level3">
+<h3>Publications</h3>
+<!-- @Bucchianeri2020 - Party Competition and Coalitional Stability -->
+<div style="float: left; padding-left: 20px; margin-bottom: 20px">
+Bucchianeri, Peter. 2020. <a href="https://doi.org/10.1017/S0003055420000386">Party competition and coalitional stability: Evidence from american local government</a>. <em>American Political Science Review</em>, 1–16.
+<form>
+<input onclick="showAbstract('pb2020_partycomp')" type = "button" value = "Abstract" class="button">
+</form>
+<form action="files/papers/PB_Competition_Web_Final.pdf">
+<input type="submit" class="button" value="Ungated PDF">
+</form>
+<form action="files/papers/PB_Competition_Appendix_Web">
+<input type="submit" class="button" value="Appendix">
+</form>
+<form action="https://doi.org/10.7910/DVN/8ZT2ID">
+<input type="submit" class="button" value="Replication Materials">
+</form>
+<div id="pb2020_partycomp" style="display: none">
+<blockquote>
+<p>Abstract: For decades, political scientists have argued that competition is a fundamental component of a responsible party system, such that when one party dominates politics, legislative coalitions destabilize and democratic accountability suffers. In this paper, I evaluate these predictions in an important but largely unexplored legislative environment: American local government. Using an original collection of roll-call records from 151 municipal councils, I show that legislative behavior is more one-dimensional when elections are partisan and the electorate is evenly balanced between the parties. When either of these features is absent, however, elite behavior remains unstructured, with coalitions shifting over time and across issues. These differences across institutional and competitive contexts suggest that partisan elections—and the party organizations that nearly always come with them—are critical for translating electoral insecurity into organized government, raising questions about the capacity for electoral accountability in a growing set of one-party dominant governments across the country.</p>
+</blockquote>
+</div>
+</div>
+<!-- @Bucchianeri2018 - Is Running Enough -->
+<div style="float: left; padding-left: 20px; margin-bottom: 20px">
+Bucchianeri, Peter. 2018. <a href="https://doi.org/10.1007/s11109-017-9407-7">Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates</a>. <em>Political Behavior</em> 40: 435–466.
+<form>
+<input onclick="showAbstract('pb2018')" type = "button" value = "Abstract" class="button">
+</form>
+<form action="files/papers/Bucchianeri_IsRunningEnough.pdf">
+<input type="submit" class="button" value="Ungated PDF">
+</form>
+<form action="https://doi.org/10.7910/DVN/CFPBRI">
+<input type="submit" class="button" value="Replication Materials">
+</form>
+<div id="pb2018" style="display: none">
+<blockquote>
+<p>Abstract: The conventional wisdom in the literature on women candidates holds that “when women run, they win as often as men.” This has led to a strong focus in the literature on the barriers to entry for women candidates and significant evidence that these barriers hinder representation. Yet, a growing body of research suggests that some disadvantages persist for Republican women even after they choose to run for office. In this paper, I investigate the aggregate consequences of these disadvantages for general election outcomes. Using a regression discontinuity design, I show that Republican women who win close House primaries lose at higher rates in the general election than Republican men. This nomination effect holds throughout the 1990s despite a surge in Republican voting starting in 1994. I find no such effect for Democratic women and provide evidence that a gap in elite support explains part of the cross-party difference.</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="working-papers" class="section level3">
+<h3>Working Papers</h3>
+<p>Coming Soon!</p>
+</div>
 
 
 

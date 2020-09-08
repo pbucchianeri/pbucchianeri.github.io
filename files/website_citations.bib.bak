@@ -1,0 +1,22 @@
+% Encoding: UTF-8
+
+@Article{Bucchianeri2018,
+  author  = {Peter Bucchianeri},
+  journal = {Political Behavior},
+  title   = {Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates},
+  year    = {2018},
+  pages   = {435--466},
+  volume  = {40},
+  doi     = {10.1007/s11109-017-9407-7},
+  url     = {https://doi.org/10.1007/s11109-017-9407-7},
+}
+
+@Article{Bucchianeri2020,
+  author  = {Peter Bucchianeri},
+  journal = {American Political Science Review},
+  title   = {Party Competition and Coalitional Stability: Evidence from American Local Government},
+  year    = {2020},
+  pages   = {1--16},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
