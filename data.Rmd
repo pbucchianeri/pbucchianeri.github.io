@@ -5,8 +5,7 @@ pagetitle: "Peter Bucchianeri"
 
 ```{css echo = FALSE}
 .iframe-class {
-    width: 80%;
-    height: 80%;
+    width: 100%;
     overflow: auto;
 }
 ```
