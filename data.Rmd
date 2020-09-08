@@ -4,11 +4,12 @@ pagetitle: "Peter Bucchianeri"
 ---
 
 ```{css echo = FALSE}
-.iframe-class {
-    width: 90%;
-    overflow: auto;
+body .main-container {
+max-width: 1600px;
+margin-left: auto;
+margin-right: auto;
 }
 ```
 
 <!-- Import Dataverse Widget -- Doesn't show correctly in Post-Build Preview -->
-<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=peterbucchianeri&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=peterbucchianeri&amp;widget=iframe&amp;heightPx=1200&fontSize10px"></script>
+<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=peterbucchianeri&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=peterbucchianeri&amp;widget=iframe&amp;heightPx=800"></script>
