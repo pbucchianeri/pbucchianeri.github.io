@@ -53,16 +53,41 @@ Bucchianeri, Peter. 2018. [Is Running Enough? Reconsidering the Conventional Wis
 
 ### Working Papers
 
-
 <!-- BVW -- Legislative Effectiveness in the American States  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
 Legislative Effectiveness in the American States (with Craig Volden and Alan Wiseman)
 <form><input onclick="showAbstract('bvw_sles')" type = "button" value = "Abstract" class="button"></form>
-<!-- <form action="files/papers/Bucchianeri_IsRunningEnough.pdf"> <input type="submit" class="button" value="Ungated PDF"></form>   -->
+<form action="files/papers/BVW_SLES_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
 <!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
 <div id="bvw_sles" style="display: none; margin-top: 12px">
 
 > Abstract: We develop State Legislative Effectiveness Scores for state legislators across 97 legislative chambers over recent decades based on the number of bills they sponsor, how far those bills move through the lawmaking process, and their substantive importance. We then offer three illustrations of the immense opportunities these scores provide for new scholarship on legislative behavior. First, we show that majority-party lawmaking influence is linked to ideological polarization and to electoral competition for chamber control. Second, we identify the varying lawmaking challenges faced by female legislators across different state legislative chambers. And third, we show how institutional design choices -- from legislative rules to the scope of professionalization -- affect the distribution of policymaking powers across the states.
+
+</div>
+</div>
+
+<!-- PB -- There's More than One Way to Party... in San Francisco  -->
+<div style="float: left; padding-left: 20px; margin-bottom: 20px">
+There's More than One Way to Party: Progressive Politics and Representation in Nonpartisan San Francisco
+<form><input onclick="showAbstract('pb_sf')" type = "button" value = "Abstract" class="button"></form>
+<form action="files/papers/PB_SF_Progressives_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+<div id="pb_sf" style="display: none; margin-top: 12px">
+
+> Abstract: Despite the significance of political parties for American politics, most governments in the United States are formally nonpartisan. Prominent theories suggest that this absence of parties will impede the development of stable legislative coalitions and hinder democratic accountability. In contrast to this perspective, I argue that when coalitions of policy demanders solve the information and coordination problems that arise without formal party institutions, nonpartisan politics will resemble two-party democracy. To explore this argument, I first examine politics in nonpartisan San Francisco, documenting the emergence and consolidation of distinct progressive and moderate legislative coalitions and the presence of a robust electoral connection between voters and their representatives. Second, using data from 120 additional municipal councils, I demonstrate that this behavior is not unique to San Francisco. Collectively, my findings suggest that organized interests can overcome the challenge of nonpartisan government, creating a political environment in the process that facilitates high-quality representation.
+
+</div>
+</div>
+
+<!-- PB et al -- What Explains Local Policy Cleavages  -->
+<div style="float: left; padding-left: 20px; margin-bottom: 20px">
+What Explains Local Policy Cleavages? Evidence from a Survey of Municipal Officials (with Riley Carney, Ryan Enos, Amy Lakeman, and Gabrielle Malina)
+<form><input onclick="showAbstract('local_officials')" type = "button" value = "Abstract" class="button"></form>
+<form action="files/papers/Local_Officials_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+<div id="local_officials" style="display: none; margin-top: 12px">
+
+> Abstract: A growing literature argues that national issues and partisanship structure local-level conflict in the United States. This argument contrasts starkly with the traditional view of local politics as fundamentally nonpartisan and nonideological. In this paper, we reconsider these diverging arguments, using a large-scale survey of municipal officials to identify the latent dimensions that underlie elite preferences across cities and on a common scale. Our results demonstrate that elite preferences in local politics---unlike in national politics---are multidimensional. In particular, we find evidence of two underlying cleavages: one based on partisanship, the other based on a market orientation to the provision of local services. Importantly, these latent dimensions correlate with self-reported indicators of constituent group support, suggesting that each dimension reflects substantively meaningful features of conflict in local electoral politics. These findings contribute to our understanding of local policymaking and provide a foundation for studying municipal responsiveness moving forward.
 
 </div>
 </div>
@@ -75,7 +100,7 @@ Do Effective State Legislators Become Effective Lawmakers in Congress? (with Cra
 <!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
 <div id="bvw_state_to_fed" style="display: none; margin-top: 12px">
 
-> Abstract: What experiences contribute to a legislator becoming an effective lawmaker in Congress? In this paper we draw on new estimates of legislative effectiveness from 49 states between 1989 and 2018 to explore the role of state legislative experience and state lawmaking effectiveness in shaping effectiveness at the federal level. Specifically, we demonstrate that highly effective state legislators who are elected to Congress from more professional state legislatures are more effective than their congressional counterparts who either did not serve at the state level or who served in less-professional legislatures. Such lawmakers behave similarly to much more senior members of Congress; they introduce more legislation and successfully address issues of greater substantive significance. Our findings raise the potential importance of looking to state legislatures for the next generation of highly skilled federal lawmakers, and they speak to broader questions about the identification of candidate traits that are related to their subsequent lawmaking effectiveness in the U.S. Congress.
+> Abstract: What experiences contribute to a legislator becoming an effective lawmaker in Congress? In this paper we draw on new estimates of legislative effectiveness from 49 states between 1989 and 2018 to explore the role of state legislative experience and state lawmaking effectiveness in shaping effectiveness at the federal level. Specifically, we demonstrate that highly effective state legislators who are elected to Congress from more professional state legislatures are more effective than their congressional counterparts who either did not serve at the state level or who served in less-professional legislatures. Such lawmakers behave similarly to much more senior members of Congress; they introduce more legislation and successfully address issues of greater substantive significance. Our findings raise the potential importance of looking to state legislatures for the next generation of highly skilled federal lawmakers, and they speak to broader questions about the identification of candidate traits that are related to their subsequent lawmaking effectiveness in the U.S. Congress. (Draft available upon request)
 
 </div>
 </div>
