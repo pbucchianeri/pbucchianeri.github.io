@@ -12,17 +12,24 @@ pagetitle: "Peter Bucchianeri"
   <div>
   
   <!-- Under Development -->
-  Hello! I'm Peter. I'm a social scientist with expertise in American politics and social policy. 
+  <!-- Hello! I'm Peter. I'm a social scientist with expertise in American politics and social policy.  -->
+
+  <!-- This site remains under development.... -->
+
+  <!-- In the meantime, you can check out my existing website [here](http://www.peterbucchianeri.com) or view my CV [here](files/Bucchianeri_CV_Web.pdf). -->
+
+  Hello! I'm Peter. I'm a social scientist with expertise in American politics and social policy. I am currently a research consultant for the [Center for Effective Lawmaking](https://thelawmakers.org/), where I am developing effectiveness scores for over 20,000 current and former state legislators. 
   
-  This site remains under development....
+  My academic research, which has been published in the *American Political Science Review* and *Political Behavior*, examines how social and political institutions shape the preferences and behaviors of elected officials in the United States, particularly at the subnational level. In practice, this means I ask and answer questions such as: how do political parties impact the electoral and legislative processes? What role does competition play in fostering a healthy democracy? And why are some legislators more effective at influencing public policy than others? For additional information about my work in these areas, please see my [research](research.html) page. 
   
-  In the meantime, you can check out my existing website [here](http://www.peterbucchianeri.com) or view my CV [here](files/Bucchianeri_CV_Web.pdf).
+  
+<!--   Hello! I'm Peter. I'm a social scientist with expertise in American politics and social policy. I am currently a research consultant for the Center for Effective Lawmaking (CEL), where I am developing effectiveness scores for over 20,000 current and former state legislators. A copy of my CV can be found here.  -->
 
-  <!-- Hello! I'm Peter. I'm a social scientist with expertise in American politics and social policy. I am currently a research consultant for the [Center for Effective Lawmaking](https://thelawmakers.org/), where I am developing effectiveness scores for over 20,000 current and former state legislators. -->
+<!-- My academic research, which has been published in the American Political Science Review and Political Behavior, examines how social and political institutions shape the preferences and behaviors of elected officials in the United States, particularly at the subnational levels. In practice, this means I ask and answer questions such as: how do political parties impact the electoral and legislative processes? What role does competition play in fostering a healthy democracy? And why are some legislators more effective at influencing public policy than others? For additional information about my work in these areas, please see my research page.  -->
 
-  <!-- My academic research examines how social and political institutions shape the preferences and behaviors of political elites in the United States, particularly at the state and local levels. My work has been published in the *American Political Science Review* and *Political Behavior*. -->
+<!-- Looking to get in touch? You can email me at pbucchi3 [at] gmail.com. -->
 
-  <!-- You can email me at pbucchi3[at]gmail.com -->
+  
   
   </div>
 </div>
