@@ -20,6 +20,8 @@ navbar:
       href: mailto:peter@peterbucchianeri.com
     - icon: fa-twitter fa-lg
       href: https://twitter.com/pbucchianeri
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=gOe4Q0AAAAAJ&hl=en
     - icon: fa-github fa-lg
       href: http://github.com/pbucchianeri
     #- icon: fa-linkedin fa-lg
@@ -28,5 +30,5 @@ output:
   html_document:
     theme: cosmo
     # highlight: tango # code blocks
-    css: "website_style.css"
+    css: ["website_style.css", "site_libs/academicons-1.9.0/css/academicons.min.css"]
 
