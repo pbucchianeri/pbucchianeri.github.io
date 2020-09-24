@@ -15,7 +15,7 @@ pagetitle: "Peter Bucchianeri"
   
   My academic research, which has been published in the *American Political Science Review* and *Political Behavior*, examines how social and political institutions shape the preferences and behaviors of elected officials in the United States, particularly at the state and local levels. In practice, this means I ask and answer questions such as: how do political parties impact the electoral and legislative processes? What role does competition play in fostering a healthy democracy? And why are some legislators more effective at influencing public policy than others? For additional information about my work in these areas, please see my [research](research.html) page. 
   
-  Looking to get in touch? You can email me at pbucchi3 [at] gmail.com.
+  Looking to get in touch? You can email me at peter [at] peterbucchianeri.com.
 
   </div>
 </div>
