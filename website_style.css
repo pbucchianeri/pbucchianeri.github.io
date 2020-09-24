@@ -8,28 +8,50 @@ margin-left: auto;
 margin-right: auto;
 }
 
-/* Adjusts distance between header and content*/
+/* Navbar -- Increase height*/
+.navbar {
+  padding-top: 25px; 
+}
+/* Navbar - Page Links */
+.nav a{
+  font-size: 1.75rem; 
+}
+/* Navbar - Name */
+.navbar-brand{
+  font-size: 3.25rem;
+}
+/* Navbar - Page Links -- Adjusts vertical location
+.nav li{
+  padding-top: 7.5px; 
+}
+*/
+
+/* Adjust distance between navbar and content + Adjust base font size */
 body {
- margin-top: 30px;
+ margin-top: 50px; 
+ font-size: 11pt;
 }  
 
 /* Edit Button Style for Appendix, Replication Code, Ungated Drafts */
-.button {
-  background-color: #6a9bc3; /* Lighter Blue */
-  border: none;
-  color: white;
-  padding: 1px 4px;
-  text-align: center;
-  text-decoration: none;
-  display: inline;
-  font-size: 8px;
-  cursor: pointer;
-  border-radius: 6px;
-  transition-duration: 0.4s;
+.btn{
+ background-color: #737373;
+ color: white;
+ border: none;
+ opacity: 0.80;
+ padding: 2px 5px;
+ text-decoration: none;
+ display: inline;
+ cursor: pointer;
+ border-radius: 4px;
+ transition-duration: 0.4s; 
 }
-.button:hover {
-  background-color: #38678f; /* Darker Blue /// 4682B4 */
-  color: white;
+.btn-xs{
+  font-size: 1rem; /* Change size of btn text relative to default*/
+}
+
+.btn:hover {
+ background-color: #333333; /* Shades of Blue: #38678f, #4682B4 */
+ color: white;
 }
 form { 
   display: inline; 
@@ -39,6 +61,9 @@ form {
 blockquote {
     padding: 10px 10px;
     margin-left: 30px;
-    font-size: 12px;
+    font-size: 1.4rem;
     border-left: 3px solid;
 }
+
+
+
