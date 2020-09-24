@@ -25,11 +25,11 @@ function showAbstract(div_id) {
 
 <!-- @Bucchianeri2020 - Party Competition and Coalitional Stability -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Bucchianeri, Peter. 2020. [Party Competition and Coalitional Stability: Evidence from American Local Government](https://doi.org/10.1017/S0003055420000386). *American Political Science Review*, 1–16.
-<form><input onclick="showAbstract('pb2020_partycomp')" type = "button" value = "Abstract" class="button"></form>
-<form action="files/papers/PB_Competition_Web_Final.pdf"> <input type="submit" class="button" value="Ungated PDF"></form>
-<form action="files/papers/PB_Competition_Appendix_Web.pdf"> <input type="submit" class="button" value="Appendix"></form>
-<form action="https://doi.org/10.7910/DVN/8ZT2ID"> <input type="submit" class="button" value="Replication Materials"></form>
+Bucchianeri, Peter. 2020. ["Party Competition and Coalitional Stability: Evidence from American Local Government"](https://doi.org/10.1017/S0003055420000386). *American Political Science Review*, 1–16.
+<form><input onclick="showAbstract('pb2020_partycomp')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<form action="files/papers/PB_Competition_Web_Final.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>
+<form action="files/papers/PB_Competition_Appendix_Web.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Appendix"></form>
+<form action="https://doi.org/10.7910/DVN/8ZT2ID"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form>
 <div id="pb2020_partycomp" style="display: none; margin-top: 12px" >
 
 > For decades, political scientists have argued that competition is a fundamental component of a responsible party system, such that when one party dominates politics, legislative coalitions destabilize and democratic accountability suffers. In this paper, I evaluate these predictions in an important but largely unexplored legislative environment: American local government. Using an original collection of roll-call records from 151 municipal councils, I show that legislative behavior is more one-dimensional when elections are partisan and the electorate is evenly balanced between the parties. When either of these features is absent, however, elite behavior remains unstructured, with coalitions shifting over time and across issues. These differences across institutional and competitive contexts suggest that partisan elections—and the party organizations that nearly always come with them—are critical for translating electoral insecurity into organized government, raising questions about the capacity for electoral accountability in a growing set of one-party dominant governments across the country.  
@@ -40,10 +40,10 @@ Bucchianeri, Peter. 2020. [Party Competition and Coalitional Stability: Evidence
 
 <!-- @Bucchianeri2018 - Is Running Enough -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Bucchianeri, Peter. 2018. [Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates](https://doi.org/10.1007/s11109-017-9407-7). *Political Behavior* 40: 435–466.
-<form><input onclick="showAbstract('pb2018')" type = "button" value = "Abstract" class="button"></form>
-<form action="files/papers/Bucchianeri_IsRunningEnough.pdf"> <input type="submit" class="button" value="Ungated PDF"></form>  
-<form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form>
+Bucchianeri, Peter. 2018. ["Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates"](https://doi.org/10.1007/s11109-017-9407-7). *Political Behavior* 40: 435–466.
+<form><input onclick="showAbstract('pb2018')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<form action="files/papers/Bucchianeri_IsRunningEnough.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>  
+<form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form>
 <div id="pb2018" style="display: none; margin-top: 12px">
 
 > The conventional wisdom in the literature on women candidates holds that “when women run, they win as often as men.” This has led to a strong focus in the literature on the barriers to entry for women candidates and significant evidence that these barriers hinder representation. Yet, a growing body of research suggests that some disadvantages persist for Republican women even after they choose to run for office. In this paper, I investigate the aggregate consequences of these disadvantages for general election outcomes. Using a regression discontinuity design, I show that Republican women who win close House primaries lose at higher rates in the general election than Republican men. This nomination effect holds throughout the 1990s despite a surge in Republican voting starting in 1994. I find no such effect for Democratic women and provide evidence that a gap in elite support explains part of the cross-party difference.
@@ -55,10 +55,10 @@ Bucchianeri, Peter. 2018. [Is Running Enough? Reconsidering the Conventional Wis
 
 <!-- BVW -- Legislative Effectiveness in the American States  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Legislative Effectiveness in the American States (with Craig Volden and Alan Wiseman)
-<form><input onclick="showAbstract('bvw_sles')" type = "button" value = "Abstract" class="button"></form>
-<form action="files/papers/BVW_SLES_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
-<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+"Legislative Effectiveness in the American States" (with Craig Volden and Alan Wiseman)
+<form><input onclick="showAbstract('bvw_sles')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<form action="files/papers/BVW_SLES_Web.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Working Draft"></form>
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form> -->
 <div id="bvw_sles" style="display: none; margin-top: 12px">
 
 > We develop State Legislative Effectiveness Scores for state legislators across 97 legislative chambers over recent decades based on the number of bills they sponsor, how far those bills move through the lawmaking process, and their substantive importance. We then offer three illustrations of the immense opportunities these scores provide for new scholarship on legislative behavior. First, we show that majority-party lawmaking influence is linked to ideological polarization and to electoral competition for chamber control. Second, we identify the varying lawmaking challenges faced by female legislators across different state legislative chambers. And third, we show how institutional design choices -- from legislative rules to the scope of professionalization -- affect the distribution of policymaking powers across the states.
@@ -68,10 +68,10 @@ Legislative Effectiveness in the American States (with Craig Volden and Alan Wis
 
 <!-- PB -- There's More than One Way to Party... in San Francisco  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-There's More than One Way to Party: Progressive Politics and Representation in Nonpartisan San Francisco
-<form><input onclick="showAbstract('pb_sf')" type = "button" value = "Abstract" class="button"></form>
-<form action="files/papers/PB_SF_Progressives_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
-<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+"There's More than One Way to Party: Progressive Politics and Representation in Nonpartisan San Francisco"
+<form><input onclick="showAbstract('pb_sf')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<form action="files/papers/PB_SF_Progressives_Web.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Working Draft"></form>
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form> -->
 <div id="pb_sf" style="display: none; margin-top: 12px">
 
 > Despite the significance of political parties for American politics, most governments in the United States are formally nonpartisan. Prominent theories suggest that this absence of parties will impede the development of stable legislative coalitions and hinder democratic accountability. In contrast to this perspective, I argue that when coalitions of policy demanders solve the information and coordination problems that arise without formal party institutions, nonpartisan politics will resemble two-party democracy. To explore this argument, I first examine politics in nonpartisan San Francisco, documenting the emergence and consolidation of distinct progressive and moderate legislative coalitions and the presence of a robust electoral connection between voters and their representatives. Second, using data from 120 additional municipal councils, I demonstrate that this behavior is not unique to San Francisco. Collectively, my findings suggest that organized interests can overcome the challenge of nonpartisan government, creating a political environment in the process that facilitates high-quality representation.
@@ -81,10 +81,10 @@ There's More than One Way to Party: Progressive Politics and Representation in N
 
 <!-- PB et al -- What Explains Local Policy Cleavages  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-What Explains Local Policy Cleavages? Evidence from a Survey of Municipal Officials (with Riley Carney, Ryan Enos, Amy Lakeman, and Gabrielle Malina)
-<form><input onclick="showAbstract('local_officials')" type = "button" value = "Abstract" class="button"></form>
-<form action="files/papers/Local_Officials_Web.pdf"> <input type="submit" class="button" value="Working Draft"></form>
-<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+"What Explains Local Policy Cleavages? Evidence from a Survey of Municipal Officials" (with Riley Carney, Ryan Enos, Amy Lakeman, and Gabrielle Malina)
+<form><input onclick="showAbstract('local_officials')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<form action="files/papers/Local_Officials_Web.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Working Draft"></form>
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form> -->
 <div id="local_officials" style="display: none; margin-top: 12px">
 
 > A growing literature argues that national issues and partisanship structure local-level conflict in the United States. This argument contrasts starkly with the traditional view of local politics as fundamentally nonpartisan and nonideological. In this paper, we reconsider these diverging arguments, using a large-scale survey of municipal officials to identify the latent dimensions that underlie elite preferences across cities and on a common scale. Our results demonstrate that elite preferences in local politics---unlike in national politics---are multidimensional. In particular, we find evidence of two underlying cleavages: one based on partisanship, the other based on a market orientation to the provision of local services. Importantly, these latent dimensions correlate with self-reported indicators of constituent group support, suggesting that each dimension reflects substantively meaningful features of conflict in local electoral politics. These findings contribute to our understanding of local policymaking and provide a foundation for studying municipal responsiveness moving forward.
@@ -94,10 +94,10 @@ What Explains Local Policy Cleavages? Evidence from a Survey of Municipal Offici
 
 <!-- BVW -- Do Effective State Legislators Become Effective Lawmakers in Congress?  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Do Effective State Legislators Become Effective Lawmakers in Congress? (with Craig Volden and Alan Wiseman)
-<form><input onclick="showAbstract('bvw_state_to_fed')" type = "button" value = "Abstract" class="button"></form>
-<!-- <form action="files/papers/Bucchianeri_IsRunningEnough.pdf"> <input type="submit" class="button" value="Ungated PDF"></form>   -->
-<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+"Do Effective State Legislators Become Effective Lawmakers in Congress?" (with Craig Volden and Alan Wiseman)
+<form><input onclick="showAbstract('bvw_state_to_fed')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<!-- <form action="files/papers/zzzzzzz.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>   -->
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form> -->
 <div id="bvw_state_to_fed" style="display: none; margin-top: 12px">
 
 > What experiences contribute to a legislator becoming an effective lawmaker in Congress? In this paper we draw on new estimates of legislative effectiveness from 49 states between 1989 and 2018 to explore the role of state legislative experience and state lawmaking effectiveness in shaping effectiveness at the federal level. Specifically, we demonstrate that highly effective state legislators who are elected to Congress from more professional state legislatures are more effective than their congressional counterparts who either did not serve at the state level or who served in less-professional legislatures. Such lawmakers behave similarly to much more senior members of Congress; they introduce more legislation and successfully address issues of greater substantive significance. Our findings raise the potential importance of looking to state legislatures for the next generation of highly skilled federal lawmakers, and they speak to broader questions about the identification of candidate traits that are related to their subsequent lawmaking effectiveness in the U.S. Congress.
@@ -107,10 +107,10 @@ Do Effective State Legislators Become Effective Lawmakers in Congress? (with Cra
 
 <!-- PB -- Race, Partisanship, and the Construction of the Local Legislative Agenda  -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Race, Partisanship, and the Construction of the Local Legislative Agenda
-<form><input onclick="showAbstract('local_agenda')" type = "button" value = "Abstract" class="button"></form>
-<!-- <form action="files/papers/zzzzzz.pdf"> <input type="submit" class="button" value="Ungated PDF"></form>   -->
-<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="button" value="Replication Materials"></form> -->
+"Race, Partisanship, and the Construction of the Local Legislative Agenda"
+<form><input onclick="showAbstract('local_agenda')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
+<!-- <form action="files/papers/zzzzzz.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>   -->
+<!-- <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form> -->
 <div id="local_agenda" style="display: none; margin-top: 12px">
 
 > A large literature examines the dynamics of the agenda process in Congress and the state legislatures, arguing that the construction and obstruction of the legislative agenda is central to understanding policy outcomes. Despite the significance of these processes for state and national politics, however, we know remarkably little about the factors that shape the local legislative agenda. In this paper, I use a novel collection of legislative records from 71 cities and counties in the United States to explore how the composition of a council influences the content of the local agenda. Specifically, by coding the policy content of each bill, I first examine whether and how the issue content of the agenda changes as a council becomes more racially diverse and as the distribution of member partisanship becomes increasingly imbalanced. Second, using data on the lifecycle of each bill, I evaluate whether members of certain racial or partisan groups are more likely to see their bills reach the floor. Collectively, my findings contribute to our understanding of the policymaking process at the local level by documenting different pathways through which descriptive and partisan representation influence the types of bills that have the potential to become law.
