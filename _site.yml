@@ -31,4 +31,6 @@ output:
     theme: cosmo
     # highlight: tango # code blocks
     css: ["website_style.css", "site_libs/academicons-1.9.0/css/academicons.min.css"]
+    includes:
+      in_header: header.html
 
