@@ -25,7 +25,7 @@ function showAbstract(div_id) {
 
 <!-- @Bucchianeri2020 - Party Competition and Coalitional Stability -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Bucchianeri, Peter. 2020. ["Party Competition and Coalitional Stability: Evidence from American Local Government"](https://doi.org/10.1017/S0003055420000386). *American Political Science Review*, 1–16.
+Bucchianeri, Peter. 2020. ["Party Competition and Coalitional Stability: Evidence from American Local Government"](https://doi.org/10.1017/S0003055420000386). *American Political Science Review*, 114(4): 1055-1070.
 <form><input onclick="showAbstract('pb2020_partycomp')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
 <form action="files/papers/PB_Competition_Web_Final.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>
 <form action="files/papers/PB_Competition_Appendix_Web.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Appendix"></form>
@@ -40,7 +40,7 @@ Bucchianeri, Peter. 2020. ["Party Competition and Coalitional Stability: Evidenc
 
 <!-- @Bucchianeri2018 - Is Running Enough -->
 <div style="float: left; padding-left: 20px; margin-bottom: 20px">
-Bucchianeri, Peter. 2018. ["Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates"](https://doi.org/10.1007/s11109-017-9407-7). *Political Behavior* 40: 435–466.
+Bucchianeri, Peter. 2018. ["Is Running Enough? Reconsidering the Conventional Wisdom about Women Candidates"](https://doi.org/10.1007/s11109-017-9407-7). *Political Behavior* 40(2): 435-466.
 <form><input onclick="showAbstract('pb2018')" type = "button" value = "Abstract" class="btn btn-primary btn-xs"></form>
 <form action="files/papers/Bucchianeri_IsRunningEnough.pdf"> <input type="submit" class="btn btn-primary btn-xs" value="Ungated PDF"></form>  
 <form action="https://doi.org/10.7910/DVN/CFPBRI"> <input type="submit" class="btn btn-primary btn-xs" value="Replication Materials"></form>
